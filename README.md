@@ -4,7 +4,7 @@
 - 👀 Sou uma pessoa de facil comunicação e muito curiosa, gosto de sempre estar pesquisando as coisas que não tenho muito conhecimento, e acredito que isso me ajude
      quando se fala em tecnologia, você nunca ira saber tudo, mas a vontade de estar sempre pesquisando pode fazer você adquirir um conhecimento maior.
 
-- 📫 Entre em contato comigo pelo meu email, pedrovinicius_99@hotmail.com, ou pelo meu telefone 73991156510
+- 📫 pedrovinicius_99@hotmail.com
 
 <!---
 zPedroz/zPedroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
