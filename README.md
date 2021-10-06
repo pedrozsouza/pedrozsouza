@@ -2,7 +2,7 @@
      com o ramo da tecnologia, no momento estou estudando a linguagem Python, mas tenho conhecimentos no desenvolvimento front end, com base em HTML, CSS, JavaScript e Angular.
 
 - 👀 Sou uma pessoa de facil comunicação e muito curiosa, gosto de sempre estar pesquisando as coisas que não tenho muito conhecimento, e acredito que isso me ajude
-     quando se fala em tecnologia, você nunca ira saber tudo, mas a vontade de estar sempre pesquisando pode fazer você adquirir um conhecimento maior.
+     quando se fala em tecnologia, manter constante o conhecimento é a principal estrategia para evoluir na carreira.
 
 - 📫 pedrovinicius_99@hotmail.com
 
