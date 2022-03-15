@@ -1,5 +1,4 @@
-- 👋 Olá, me chamo Pedro, tenho 22 anos e atualmente estou cursando Sistemas de Informação na Universidade Federal de Sergipe, muito animado com o curso e
-     com o ramo da tecnologia, no momento estou estudando a linguagem Python
+- 👋 Desenvolvedor Backend, atualmente trabalhando com C# e .NET
 
 - 📫 pedrovinicius_99@hotmail.com
 
