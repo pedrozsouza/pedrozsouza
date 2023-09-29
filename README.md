@@ -1,4 +1,4 @@
-- 👋 Desenvolvedor Backend, atualmente trabalhando com C# e .NET
+- 👋 Desenvolvedor Frontend, trabalhando com React e Typescript
 
 - 📫 pedrovinicius_99@hotmail.com
 
