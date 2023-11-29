@@ -1,4 +1,32 @@
-- 👋 Desenvolvedor Frontend, trabalhando com React e Typescript
+## Olá, mundo! Meu nome é <strong>Pedro</strong>! 👋
 
-- 📫 pedrovinicius_99@hotmail.com
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Sou <strong>Desenvolvedor Front-End</strong>.
+
+Atualmente cursando graduação em Sistemas de Informação. Com uma paixão por tecnologia e inovação, estou sempre buscando novidades e pesquisando as melhores práticas para criar soluções digitais eficazes e atraentes. 
+Minha experiência inclui o desenvolvimento de projetos de sites e aplicativos responsivos, usando ferramentas modernas como HTML, CSS, JavaScript, React e outras tecnologias relacionadas. Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento no campo do desenvolvimento, para fornecer soluções ainda mais inovadoras e personalizadas.
+
+
+<h2 align="left">
+Linguagens:
+</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+<p align="left">
+ Sinta-se a vontade para entrar em contato: ⤵️
+</p>
+
+<a href="https://www.linkedin.com/in/pevvs/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 
