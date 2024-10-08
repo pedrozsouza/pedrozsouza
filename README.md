@@ -11,14 +11,14 @@ Colaboro de perto com equipes de design para integrar soluções visuais criadas
 
 Tecnologias:
 
-Linguagens e Frameworks: React, TypeScript, Next.js, JavaScript, Angular
-Gerenciamento de Estado: Redux, Context API, Zustand
-Design Systems: Storybook, Material-UI, Ant Design, shadcn/ui
-Testes: Jest, Cypress, Testing Library
-Estilização: Styled-components, SASS, CSS Modules
-Ferramentas de Design: Figma, Adobe XD
-API e Manipulação de Dados: RESTful APIs, GraphQL, Axios
-Build e Automação: Webpack, Vite, Gulp
+Linguagens e Frameworks: React, TypeScript, Next.js, JavaScript, Angular <br><br>
+Gerenciamento de Estado: Redux, Context API, Zustand  <br><br>
+Design Systems: Storybook, Material-UI, Ant Design, shadcn/ui  <br><br>
+Testes: Jest, Cypress, Testing Library  <br><br>
+Estilização: Styled-components, SASS, CSS Modules  <br><br>
+Ferramentas de Design: Figma, Adobe XD  <br><br>
+API e Manipulação de Dados: RESTful APIs, GraphQL, Axios  <br><br>
+Build e Automação: Webpack, Vite, Gulp  <br><br>
 Metodologias e Práticas: Agile, Scrum, TDD (Test-Driven Development), CI/CD
 
 📬 pedrovinicius_99@hotmail.com
