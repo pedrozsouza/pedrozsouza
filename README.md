@@ -5,7 +5,7 @@
 <p align="left"> 
   Sou <strong>Desenvolvedor Front-End</strong>.
 
-Desenvolvedor Frontend especializado em criar aplicações web modernas e escaláveis, focado em oferecer experiências de usuário de alta qualidade. Profundo conhecimento em React e TypeScript, com experiência na construção de interfaces responsivas que se adaptam a diferentes dispositivos.
+Especializado em criar aplicações web modernas e escaláveis, focado em oferecer experiências de usuário de alta qualidade. Profundo conhecimento em React e TypeScript, com experiência na construção de interfaces responsivas que se adaptam a diferentes dispositivos.
 
 Colaboro de perto com equipes de design para integrar soluções visuais criadas no Figma e utilizo boas práticas de testes automatizados para garantir a qualidade do código. Sempre em busca de novos desafios, meu objetivo é aplicar tecnologias avançadas para criar soluções inovadoras.
 
