@@ -5,22 +5,23 @@
 <p align="left"> 
   Sou <strong>Desenvolvedor Front-End</strong>.
 
-Atualmente cursando graduação em Sistemas de Informação. Com uma paixão por tecnologia e inovação, estou sempre buscando novidades e pesquisando as melhores práticas para criar soluções digitais eficazes e atraentes. 
-Minha experiência inclui o desenvolvimento de projetos de sites e aplicativos responsivos, usando ferramentas modernas como HTML, CSS, JavaScript, React e outras tecnologias relacionadas. Estou sempre buscando melhorar minhas habilidades e expandir meu conhecimento no campo do desenvolvimento, para fornecer soluções ainda mais inovadoras e personalizadas.
+Desenvolvedor Frontend especializado em criar aplicações web modernas e escaláveis, focado em oferecer experiências de usuário de alta qualidade. Profundo conhecimento em React e TypeScript, com experiência na construção de interfaces responsivas que se adaptam a diferentes dispositivos.
 
+Colaboro de perto com equipes de design para integrar soluções visuais criadas no Figma e utilizo boas práticas de testes automatizados para garantir a qualidade do código. Sempre em busca de novos desafios, meu objetivo é aplicar tecnologias avançadas para criar soluções inovadoras.
 
-<h2 align="left">
-Linguagens:
-</h2>
+Tecnologias:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+Linguagens e Frameworks: React, TypeScript, Next.js, JavaScript, Angular
+Gerenciamento de Estado: Redux, Context API, Zustand
+Design Systems: Storybook, Material-UI, Ant Design, shadcn/ui
+Testes: Jest, Cypress, Testing Library
+Estilização: Styled-components, SASS, CSS Modules
+Ferramentas de Design: Figma, Adobe XD
+API e Manipulação de Dados: RESTful APIs, GraphQL, Axios
+Build e Automação: Webpack, Vite, Gulp
+Metodologias e Práticas: Agile, Scrum, TDD (Test-Driven Development), CI/CD
+
+📬 pedrovinicius_99@hotmail.com
 
 <p align="left">
  Sinta-se a vontade para entrar em contato: ⤵️
